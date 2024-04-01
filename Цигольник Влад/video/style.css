@@ -1,0 +1,6 @@
+body{
+    font-family: sans-serif;
+    background: linear-gradient(135deg, rgba(115,115,116,0.7770074503311258) 0%, rgba(255,255,255,1) 35%, rgba(116,119,120,1) 100%);
+    height: 100vh;
+    font-size: 15px;
+}

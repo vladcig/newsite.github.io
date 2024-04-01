@@ -1,0 +1,18 @@
+.block{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(0,1,244,0.7770074503311258) 0%, rgba(255,255,255,1) 35%, rgba(255,0,0,1) 100%);
+    width: 450px;
+    height: 200px;
+    margin: 100px auto;
+    font-size: 25px;
+    font-family: sans-serif;
+    transition: all 0.5s linear;
+}
+.anima1:hover{
+    box-shadow: 0 0 0 19px inset;
+}
+body{
+    background:url("https://i.natgeofe.com/k/04665f4a-3f8d-4b62-8ca3-09ce7dfc5a20/france-eiffel-tower_square.jpg");
+}
